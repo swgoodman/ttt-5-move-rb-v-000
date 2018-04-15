@@ -16,4 +16,4 @@ index = input_to_index(input)
 
 move(board, index, team)
 
-display_board(board)
+display_board
